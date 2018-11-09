@@ -8,6 +8,7 @@ Biography section contains:
 
 
  -Picture and Description
+ 
  -Contact Info
 
 The container holding the bio w/picture and contact info and can be modified to fit any need with slight modiciation to CSS styling. 
