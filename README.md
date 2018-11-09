@@ -5,8 +5,10 @@ A beginning example of utizliing some common html elemnts with simplified CSS st
 This example acts as a small biography section for a user profile.
 
 Biography section contains:
- Picture and Description
- Contact Info
+
+
+ -Picture and Description
+ -Contact Info
 
 The container holding the bio w/picture and contact info and can be modified to fit any need with slight modiciation to CSS styling. 
 
